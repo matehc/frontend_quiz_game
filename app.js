@@ -20,7 +20,7 @@ let score = 0;
 
 const questions = [
     {
-        quest: 'What is analogous a waiter in a restaurant that takes the request from you the customer, then goes to the kitchen to fetch your request and then comes back with a response',
+        quest: 'What is analogous to a waiter in a restaurant that takes the request from you the customer, then goes to the kitchen to fetch your request and then comes back with a response',
         options: ['PDP', 'API', 'SSH', 'TELNET'],
         answer: '1'
     },
